@@ -14,7 +14,7 @@ document.getElementById("mogus").onclick = function sigma() {
         img.classList.remove("bounce");
     }, 100); 
 
-    if (count === 100) {
+    if (count === 99) {
         activateBonus();
     }
 
